@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0D47A1</color>
+    <color name="colorPrimaryDark">#002171</color>
+    <color name="colorAccent">#2962FF</color>
+    <color name="backgroundGrey">#F4F6F9</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="textColorPrimary">#1E293B</color>
+    <color name="textColorSecondary">#64748B</color>
+    <color name="successColor">#10B981</color>
+    <color name="dangerColor">#EF4444</color>
+</resources>
